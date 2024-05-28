@@ -18329,10 +18329,10 @@ ORBB-S|Baghdad South||ORBB-N
 OSTT|Damascus|OSDI|OSTT
 OYSC|Sanaa||OYSC
 PAZA|Anchorage||PAZA
-PAZA|Anchorage|ANC|PAZA-D
-PAZA|Anchorage Oceanic - Pacific|ZAN_10|PAZA-P
-PAZA|Anchorage Oceanic - Pacific|ZAN_11|PAZA-P
-PAZA|Anchorage Oceanic - Arctic|ZAN_64|PAZA-A
+PAZA-D|Anchorage|ANC|PAZA-D
+PAZA-P|Anchorage Oceanic - Pacific|ZAN_10|PAZA-P
+PAZA-P|Anchorage Oceanic - Pacific|ZAN_11|PAZA-P
+PAZA-A|Anchorage Oceanic - Arctic|ZAN_64|PAZA-A
 PGZU|Guam|GU|PGZU
 PGZU|Guam|GUM|PGZU
 PGZU|Guam|GUAM|PGZU
@@ -18400,7 +18400,7 @@ UACN|Astana||UACN
 UAII|Shymkent||UAII
 UATT|Aktyubinsk||UATT
 UBBA|Baku|UBBB|UBBA
-UBBA-S|Baku South|UBBA-S|UBBA-S
+UBBA-S|Baku South|UBBA_S|UBBA-S
 UCFM|Bishkek||UCFM
 UCFO|Osh||UCFO
 UDDD|Yerevan|UGEE|UDDD
@@ -18673,7 +18673,7 @@ RU-ESC|Siberia Control|UNKL,UNNT,UIII
 RU-WSC|Western Siberia Control|USTV,USSV
 RU-CEN|Asia-Center|UATT,UACN,UAAA,UTAK,UTAA,UTAT,UTAV,UTSD,UTTR,UAII,UCFO,UTDD,UCFM
 RU-NWC|North Western Russia Control|ULLL,UMKK
-RU-SC|Caucasus-Radar|URRV,UGGG,UDDD,UBBA,UBBA-S
+RU-SC|Caucasus-Radar|URRV,UGGG,UDDD,UBBA
 SAM-N|South America Control North|SEFG,SKED,SKEC,MPZL,MHCC,SVZM,SYGC,SMPM,SOOO
 SAM-E|South America Control East|SBCW,SBAZ,SBRE,SBBS
 SAM-S|South America Control South|SUEO,SGFA,SAEF,SARR,SACF,SAMF,SAVF
